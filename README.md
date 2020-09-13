@@ -1,2 +1,2 @@
 # hello_world
-just a try to create a repository
+just a excise to create a repository
